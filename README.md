@@ -1,9 +1,9 @@
-# Namaste, I'm Mayank Sharma <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a>
+# Namaste, I'm Krish Sharma <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a>
 
 
 <h2>✨&nbsp;About Me</h2>
 
-I'm a pre-final year Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
+I'm a sophomore Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
 
 - 🔭 I’m currently working on something really awesome with friends
 - 🌱 I’m currently learning how ASR and TTS models work
