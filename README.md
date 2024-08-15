@@ -5,8 +5,7 @@
 
 I'm a sophomore Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
 
-- 🔭 I’m currently working on something really awesome with friends
-- 🌱 I’m currently learning how ASR and TTS models work
+- 🌱 I’m currently learning AI works.
 - 📫 How to reach me: Email me at <a href="mailto:krisharma012005@gmail.com" style="color: yellowgreen">krisharma012005@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know lol. Ask <a href="https://github.com/shar-mayank" style="color: white">@shar-mayank</a>
